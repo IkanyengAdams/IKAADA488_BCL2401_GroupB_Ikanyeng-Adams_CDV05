@@ -1,6 +1,7 @@
 @media screen and (max-width: 1200px) {
   #desktop-nav {
     display: none;
+    background-color: rgb(222, 218, 218);
   }
   #hamburger-nav {
     display: flex;
