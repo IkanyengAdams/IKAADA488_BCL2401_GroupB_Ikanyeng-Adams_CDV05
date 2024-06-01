@@ -2,7 +2,7 @@
 
 * {
   margin: 0;
-  padding: 0;;
+  padding: 0;
 }
 
 body {
@@ -17,7 +17,7 @@ html {
   background-color: rgb(238, 235, 235);
 }
 
-p{
+p {
   color: rgb(85, 85, 85);
 }
 
@@ -76,7 +76,7 @@ a:hover {
 
 .hamburger-menu {
   position: relative;
-  display: inline-block
+  display: inline-block;
 }
 
 .hamburger-icon {
@@ -137,7 +137,7 @@ a:hover {
 }
 
 .hamburger-icon span:first-child {
- opacity: 1;
+  opacity: 1;
 }
 
 .hamburger-icon span:first-child {
@@ -217,14 +217,13 @@ title {
   cursor: pointer;
   height: 3rem;
   margin: 10px 5px;
-
 }
 
 #icon2 {
   height: 35px;
   margin-bottom: 15px;
   margin-left: 2;
-border-radius: 200px;
+  border-radius: 200px;
 }
 
 /* BUTTONS */
@@ -255,8 +254,8 @@ border-radius: 200px;
 
 .btn-color-1,
 .btn-color-2:hover {
- background-color: rgb(53, 53, 53);
- color: white;
+  background-color: rgb(53, 53, 53);
+  color: white;
 }
 
 .btn-color-1:hover {
@@ -283,7 +282,7 @@ border-radius: 200px;
 
 #about {
   position: relative;
-} 
+}
 
 .about-containers {
   gap: 2rem;
@@ -298,7 +297,7 @@ border-radius: 200px;
 
 .about-containers,
 .about-details-container {
- display: flex;
+  display: flex;
 }
 
 .about-pic {
@@ -332,7 +331,7 @@ border-radius: 200px;
   margin: auto 0;
 }
 
-/* EXPERIENCE SECTION */
+/* SKILLS SECTION */
 
 #skills {
   position: relative;
@@ -383,9 +382,9 @@ article.icon {
 }
 
 .project-img {
-border-radius: 2rem;
-width: 90%;
-height: 90%;
+  border-radius: 2rem;
+  width: 90%;
+  height: 90%;
 }
 
 .project-title {
@@ -436,7 +435,7 @@ height: 90%;
 
 .contact-icon {
   cursor: default;
-} 
+}
 
 #mail-icon {
   height: 2.3rem;
@@ -453,5 +452,3 @@ footer {
 footer p {
   text-align: center;
 }
-
-
